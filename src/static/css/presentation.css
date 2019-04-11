@@ -1,0 +1,27 @@
+* {
+    color:#2E3236;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    background: linear-gradient(#ECF0F1, #95A5A6);
+}
+
+.container {
+    margin: 0 10vw;
+}
+
+#title {
+    font-size: 5rem;
+    text-align: center;
+}
+
+#bullet-points {
+    list-style: none;
+}
+
+#bullet-points > li {
+    margin: 3vh 0;
+    font-size: 2em;
+    text-align: center;
+}
